@@ -1,5 +1,9 @@
 ### Heyo, I'm Alex 👋
 
+## About Me
+
+I'm Alex, a web developer who's on a never-ending journey to get a little better at coding every day.  I graduated from California State University, Fullerton with a major in Japanese and a minor in Computer Science, but decided that the web developer life was the life for me.  I think what really draws me to web development is both the process and the satisfaction of seeing the project come together and finish.  
+
 <!--
 **a-plasencia/a-plasencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
