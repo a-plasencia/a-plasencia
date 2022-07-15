@@ -1,5 +1,4 @@
 ### Heyo, I'm Alex 👋
-<a href='https://www.linkedin.com/in/alexander-plasencia/'>![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## About Me
 
@@ -28,6 +27,9 @@ I'm Alex, a web developer who's on a never-ending journey to get a little better
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+### Let's Connect
+<a href='https://www.linkedin.com/in/alexander-plasencia/'>![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **a-plasencia/a-plasencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
